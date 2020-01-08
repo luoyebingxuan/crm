@@ -1,0 +1,14 @@
+com\gem\crm\service\UserService.class
+com\gem\crm\entity\Gender.class
+com\gem\crm\service\impl\CustomerServiceImpl.class
+com\gem\crm\CrmApplication.class
+com\gem\crm\config\MyMvcConfig.class
+com\gem\crm\service\CustomerService.class
+com\gem\crm\mapper\UserMapper.class
+com\gem\crm\entity\User.class
+com\gem\crm\controller\CustomerController.class
+com\gem\crm\config\MyDruidConfig.class
+com\gem\crm\entity\Customer.class
+com\gem\crm\mapper\CustomerMapper.class
+com\gem\crm\service\impl\UserServiceImpl.class
+com\gem\crm\controller\UserController.class

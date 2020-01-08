@@ -1,0 +1,3 @@
+com\gem\crm\BaseTest.class
+com\gem\crm\service\impl\UserServiceImplTest.class
+com\gem\crm\service\impl\CustomerServiceImplTest.class

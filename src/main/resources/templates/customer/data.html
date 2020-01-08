@@ -1,0 +1,29 @@
+<html xmlns:th="http://www.thymeleaf.org">
+<table class="table table-bordered table-hover table-responsive">
+    <tr class="info">
+        <td>编号</td>
+        <td>头像</td>
+        <td>姓名</td>
+        <td>性别</td>
+        <td>生日</td>
+        <td>操作</td>
+    </tr>
+    <tr th:each="c,status:${page.getRecords()}">
+        <td th:text="${status.count}"></td>
+        <td>
+            <img th:src="@{/asserts/image/} + ${c.header}"/>
+        </td>
+        <td th:text="${c.name}"></td>
+        <td th:text="${c.gender.toString() == 'MALE'?'男':'女'}"></td>
+        <td th:text="${#dates.format(c.birthday,'yyyy-MM-dd')}"></td>
+        <td>
+            <a href="#" class="btn btn-warning">
+                <span class="glyphicon glyphicon-edit"></span>
+            </a>
+            <a href="#" class="btn btn-danger" th:onclick="|deleteCustomer('${c.id}')|">
+                <span class="glyphicon glyphicon-remove"></span>
+            </a>
+        </td>
+    </tr>
+</table>
+</html>

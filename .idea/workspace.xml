@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f704fb1e-08fb-4864-8bf3-c1dddef9bb23" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../axis/src/example/HelloWorld.wsdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../client2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sb-ws/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sb-ws/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sb-ws/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sb-ws/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sb-ws/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sb-ws/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sb-ws/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sb-ws/src/main/java/com/hy/sbws/CxfConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sb-ws/src/main/java/com/hy/sbws/DemoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sb-ws/src/main/java/com/hy/sbws/DemoServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sb-ws/src/main/java/com/hy/sbws/SbWsApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sb-ws/src/main/java/com/hy/sbws/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sb-ws/src/main/java/mypackage/DemoService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sb-ws/src/main/java/mypackage/DemoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sb-ws/src/main/java/mypackage/DemoServiceImplService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sb-ws/src/main/java/mypackage/DemoServiceImplService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sb-ws/src/main/java/mypackage/ObjectFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sb-ws/src/main/java/mypackage/ObjectFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sb-ws/src/main/java/mypackage/SayHello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sb-ws/src/main/java/mypackage/SayHello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sb-ws/src/main/java/mypackage/SayHelloResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sb-ws/src/main/java/mypackage/SayHelloResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sb-ws/src/main/java/mypackage/ShowUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sb-ws/src/main/java/mypackage/ShowUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sb-ws/src/main/java/mypackage/ShowUserResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sb-ws/src/main/java/mypackage/ShowUserResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sb-ws/src/main/java/mypackage/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sb-ws/src/main/java/mypackage/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sb-ws/src/main/java/mypackage/api.wsdl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sb-ws/src/main/java/mypackage/package-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sb-ws/src/main/java/mypackage/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sb-ws/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sb-ws/src/test/java/com/hy/sbws/SbWsApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-webservice-axis" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-webservice-axis" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/Maven/apache-maven-3.6.0-bin/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="E:\Maven\apache-maven-3.6.0-bin\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="8" />
+  </component>
+  <component name="ProjectId" id="1VSB1deIaPJlFJiQsx0HWOHV61l" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="CrmApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="crm" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gem.crm.CrmApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f704fb1e-08fb-4864-8bf3-c1dddef9bb23" name="Default Changelist" comment="" />
+      <created>1577236402981</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577236402981</updated>
+      <workItem from="1577236413286" duration="913000" />
+      <workItem from="1577238869230" duration="195000" />
+      <workItem from="1577239288825" duration="13000" />
+      <workItem from="1577239349250" duration="13000" />
+      <workItem from="1577239383830" duration="175000" />
+      <workItem from="1577239735591" duration="2970000" />
+      <workItem from="1577252873447" duration="254000" />
+      <workItem from="1577253281879" duration="2932000" />
+      <workItem from="1577338913499" duration="72000" />
+      <workItem from="1577342542409" duration="988000" />
+      <workItem from="1577343718700" duration="728000" />
+      <workItem from="1577345843349" duration="433000" />
+      <workItem from="1577933776897" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+td, th {
+	text-align: center;
+	font-weight: bolder;
+}
+
+td img {
+	width: 30px;
+	height: 30px;
+}
